@@ -1,6 +1,6 @@
 [submodule "lib-jitsi-meet"]
-	path = lib-jitsi-meet
+	path = src/lib-jitsi-meet
 	url = https://github.com/jitsi/lib-jitsi-meet.git
 [submodule "js-utils"]
-	path = js-utils
+	path = src/js-utils
 	url = https://github.com/jitsi/js-utils
