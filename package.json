@@ -1,0 +1,29 @@
+{
+  "name": "node-lib-jitsi-meet",
+  "version": "1.0.0",
+  "description": "Node.js-compatible version of lib-jitsi-meet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakatashi/node-lib-jitsi-meet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakatashi/node-lib-jitsi-meet/issues"
+  },
+  "homepage": "https://github.com/hakatashi/node-lib-jitsi-meet#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/plugin-proposal-export-namespace-from": "^7.10.4",
+    "@babel/plugin-transform-flow-strip-types": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-flow": "^7.10.4",
+    "babel-plugin-transform-globals": "^1.0.1"
+  }
+}
